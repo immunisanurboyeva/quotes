@@ -32,3 +32,15 @@ main{
     margin: 0 auto;
     margin-top: 5%;
 }
+.ul{
+    margin: 0 auto;
+    max-width: max-content;
+    position: relative;
+    height: 4.4rem;
+}
+.author{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: #9dffad;
+}
