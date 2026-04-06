@@ -12,3 +12,23 @@ body{
     padding: 20px 40px;
     max-width: 1240px;
 }
+header{
+    padding: 8px;
+}
+select{
+    margin-left: 10rem;
+    border-radius: 22px;
+    padding: 5px 8px;
+    border-style: none;
+    border: 1px solid #73ff8a;
+    background: #000;
+    color: aliceblue;
+}
+main{
+    padding: 8px 37px;
+    border: 0.2px solid #b3ffd7;
+    border-radius: 50px;
+    width: max-content;
+    margin: 0 auto;
+    margin-top: 5%;
+}
